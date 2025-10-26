@@ -1,0 +1,8 @@
+course: Python with DevOps
+name: DevOps Student
+topics:
+-   JSON: json
+    PANDAS: pandas
+    PYTHON: python
+- YAML
+- Pandas

@@ -1,0 +1,13 @@
+{
+    "name": "DevOps Student",
+    "course": "Python with DevOps",
+    "topics": [
+        {
+            "JSON": "json",
+            "PANDAS": "pandas",
+            "PYTHON": "python"
+        },
+        "YAML",
+        "Pandas"
+    ]
+}
